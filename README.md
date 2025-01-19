@@ -1,5 +1,6 @@
 ## Welcome to my GitHub 🙌
-! [ ] ( https://komarev.com/ghpvc/?username=TakashiIto4&color=green )
+
+![](https://komarev.com/ghpvc/?username=TakashiIto4&color=green)
 
 I'm working with
 <p>
