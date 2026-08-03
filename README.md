@@ -9,6 +9,9 @@ I'm working with
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Mantine" src="https://img.shields.io/badge/-Mantine-339AF0?style=flat-square&logo=Mantine&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img alt="Kiro" src="https://img.shields.io/badge/Kiro-5B4BDB?style=flat-square">
 </p>
 <!---
   ロゴ: https://simpleicons.org/
@@ -22,12 +25,12 @@ Others
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
 </p>
 
 I'm studing
 
 <p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
   <img alt="csharp" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
   <img alt="unity" src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white">
 </p>
